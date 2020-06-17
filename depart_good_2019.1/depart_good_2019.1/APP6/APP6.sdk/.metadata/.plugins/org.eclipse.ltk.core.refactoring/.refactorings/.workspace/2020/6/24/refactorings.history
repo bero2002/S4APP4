@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;design_1_wrapper_hw_platform_0&apos;" deleteContents="false" description="Delete resource &apos;design_1_wrapper_hw_platform_0&apos;" element1="/design_1_wrapper_hw_platform_0" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1591639236434"/>&#x0A;<refactoring comment="Rename resource &apos;APP6_2019&apos; to &apos;APP4_E2020&apos;" description="Rename resource &apos;APP6_2019&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/APP6_2019" name="APP4_E2020" stamp="1591641495935" updateReferences="true"/>
+</session>
